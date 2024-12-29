@@ -71,6 +71,8 @@ These models formed the foundation for the dynamic Power BI dashboard, allowing 
 
 - Age groups 25-34 and 35-49 show higher debt burdens, signalling potential areas for targeted financial planning services.
 
+  ![](https://github.com/Goldtope1/Aurora-Bank-Dashboard/blob/main/Slide1.JPG)
+
 ***Credit Score Trends***:
 
 - Customers with lower credit scores often have higher debt-to-income ratios, aligning with increased risk.
