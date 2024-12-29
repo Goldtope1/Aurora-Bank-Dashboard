@@ -3,6 +3,7 @@
 ### Introduction
 
 #### Project Overview
+---
 
 Welcome to the Aurora Bank Insights Dashboard! This project is an in-depth analysis aimed at uncovering critical insights from financial data on customers, transactions, cards, and merchant categories. By leveraging advanced data analytics and visualization techniques, the dashboard provides actionable insights to drive informed decision-making at Aurora Bank.
 
@@ -31,6 +32,7 @@ The dataset contains information across multiple key areas:
 - Card Ownership Data: Credit and debit card usage trends segmented by demographic and risk levels.
 
 **Data Cleaning and Preprocessing**
+---
 
 Data preprocessing was a crucial step to ensure the reliability of the analysis. The key steps included:
 
@@ -45,6 +47,7 @@ Data preprocessing was a crucial step to ensure the reliability of the analysis.
 - Error Analysis: Identified and categorized transaction errors (e.g., insufficient balances, bad PINs) for deeper insights.
 
 **Data Modeling**
+---
 
 The data was segmented into key analytical models:
 
@@ -59,6 +62,7 @@ The data was segmented into key analytical models:
 These models formed the foundation for the dynamic Power BI dashboard, allowing stakeholders to explore insights interactively.
 
 ### Interpretation of Results
+---
 
 **Actionable Insights**
 
@@ -84,7 +88,8 @@ These models formed the foundation for the dynamic Power BI dashboard, allowing 
 
 - Insufficient balances are the most frequent error, highlighting the need for better customer notifications or overdraft protection services.
 
-##### Conclusion
+### Conclusion
+---
 
 This project demonstrates the power of data analytics in transforming raw financial data into actionable business insights. By understanding customer profiles, spending behaviours, and risk levels, Aurora Bank can implement strategies to enhance customer engagement, improve risk management, and optimize overall business performance.
 
