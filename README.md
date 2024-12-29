@@ -78,6 +78,7 @@ These models formed the foundation for the dynamic Power BI dashboard, allowing 
 - Customers with lower credit scores often have higher debt-to-income ratios, aligning with increased risk.
 
 - Risk mitigation strategies can focus on customers with scores between 580 and 670.
+![]()
 
 ***Transaction Patterns:***
 
