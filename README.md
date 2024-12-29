@@ -78,7 +78,7 @@ These models formed the foundation for the dynamic Power BI dashboard, allowing 
 - Customers with lower credit scores often have higher debt-to-income ratios, aligning with increased risk.
 
 - Risk mitigation strategies can focus on customers with scores between 580 and 670.
-![]()
+![](https://github.com/Goldtope1/Aurora-Bank-Dashboard/blob/main/Slide2.JPG)
 
 ***Transaction Patterns:***
 
@@ -89,7 +89,7 @@ These models formed the foundation for the dynamic Power BI dashboard, allowing 
 ***Error Analysis:***
 
 - Insufficient balances are the most frequent error, highlighting the need for better customer notifications or overdraft protection services.
-
+![]()
 ### Conclusion
 ---
 
