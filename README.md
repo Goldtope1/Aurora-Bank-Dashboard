@@ -4,7 +4,6 @@
 
 #### Project Overview
 ---
-
 Welcome to the Aurora Bank Insights Dashboard! This project is an in-depth analysis aimed at uncovering critical insights from financial data on customers, transactions, cards, and merchant categories. By leveraging advanced data analytics and visualization techniques, the dashboard provides actionable insights to drive informed decision-making at Aurora Bank.
 
 #### Objective
