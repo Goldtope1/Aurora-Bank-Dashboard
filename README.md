@@ -22,28 +22,28 @@ Welcome to the Aurora Bank Insights Dashboard! This project is an in-depth analy
 
 The dataset contains information across multiple key areas:
 
-- Customer Data: Demographics such as age, gender, and income bands.
+- **Customer Data**: Demographics such as age, gender, and income bands.
 
-- Credit Score Data: Credit score ranges and associated risk levels.
+- **Credit Score Data**: Credit score ranges and associated risk levels.
 
-- Transaction Data: Spending patterns, merchant categories, and error types.
+- **Transaction Data**: Spending patterns, merchant categories, and error types.
 
-- Card Ownership Data: Credit and debit card usage trends segmented by demographic and risk levels.
+- **Card Ownership Data**: Credit and debit card usage trends segmented by demographic and risk levels.
 
 **Data Cleaning and Preprocessing**
 ---
 
 Data preprocessing was a crucial step to ensure the reliability of the analysis. The key steps included:
 
-- Handling Missing Values: Missing values were imputed or removed to maintain data integrity.
+- **Handling Missing Values**: Missing values were imputed or removed to maintain data integrity.
 
-- Outlier Detection and Removal: Extreme values in transactions and DTI ratios were flagged and treated to avoid skewing results.
+- **Outlier Detection and Removal**: Extreme values in transactions and DTI ratios were flagged and treated to avoid skewing results.
 
 - **Data Transformation**: Created new features such as debt-to-income ratios and categorized income bands to enhance analysis.
 
-- Normalization: Ensured consistent data formats for variables like income, transaction amounts, and age.
+- **Normalization**: Ensured consistent data formats for variables like income, transaction amounts, and age.
 
-- Error Analysis: Identified and categorized transaction errors (e.g., insufficient balances, bad PINs) for deeper insights.
+- **Error Analysis**: Identified and categorized transaction errors (e.g., insufficient balances, bad PINs) for deeper insights.
 
 **Data Modeling**
 ---
