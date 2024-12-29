@@ -57,7 +57,7 @@ The data was segmented into key analytical models:
 - **Spending Trend Analysis**: Evaluated transaction volumes and patterns by merchant categories and age groups.
 
 - **Error Trend Monitoring**: Analyzed the frequency and distribution of transaction errors.
-![]()
+![](https://github.com/Goldtope1/Aurora-Bank-Dashboard/blob/main/example_data_model.jpg)
 
 These models formed the foundation for the dynamic Power BI dashboard, allowing stakeholders to explore insights interactively.
 
